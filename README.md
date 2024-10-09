@@ -1,2 +1,1 @@
-# euclid
-Euclid
+https://ogreogles.github.io/euclid
