@@ -1,0 +1,1 @@
+const swiper=new Swiper(".swiper",{slidesPerView:1,direction:"horizontal",loop:!0,speed:300,pagination:{el:".swiper-pagination",type:"bullets",clickable:!0},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"},scrollbar:{hide:!0},a11y:{prevElMessage:"Предыдущий слайд",nextElMessage:"Следующий слайд"}});
